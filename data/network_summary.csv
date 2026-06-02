@@ -1,0 +1,16 @@
+metric,value
+parser_version,v5
+raw_parsed_records,5197
+self_loops_excluded,24
+nodes_all,2704
+focal_families_from_headers,657
+edges_distinct_all,3541
+edges_within_focal_network,1271
+edges_external_to_nonfocal_family,2270
+sum_edge_weights_all,5173
+giant_component_nodes,2246
+giant_component_edges,3288
+average_path_length_giant,3.50152485780148
+diameter_giant,12.0790043290043
+global_clustering_transitivity,0.0244931384470308
+louvain_modularity,0.748216316268997
