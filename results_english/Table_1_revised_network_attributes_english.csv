@@ -1,0 +1,15 @@
+indicator,value
+Parseable marriage records,5197
+Self-loops excluded,24
+"Total family nodes, including non-focal marriage partners",2704
+Focal literary-family nodes,657
+Distinct weighted family-pair edges,3541
+Within-focal-network edges,1271
+External/non-focal-family edges,2270
+Sum of edge weights,5173
+Giant component nodes,2246
+Giant component edges,3288
+"Average path length, giant component",3.50152485780148
+"Diameter, giant component",12.0790043290043
+Global clustering coefficient,0.0244931384470308
+Louvain modularity,0.748216316268997

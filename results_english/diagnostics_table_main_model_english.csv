@@ -1,0 +1,8 @@
+diagnostic,value
+N,655
+R_squared,0.2276534214504787
+Adjusted_R_squared,0.21929727608750085
+Breusch_Pagan_p,1.3568916958801368e-7
+Max_Cooks_distance,0.22877057382571847
+Mean_Cooks_distance,0.00179385813351092
+Number_of_province_clusters,0
